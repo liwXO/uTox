@@ -46,10 +46,6 @@ msgstr("Nowy transfer pliku")
 msgid(TRANSFER_STARTED)
 msgstr("Transfer pliku rozpoczęty")
 
-//TODO: Same as in English? Localize or remove.
-//msgid(TRANSFER___)
-//msgstr("...")
-
 msgid(TRANSFER_PAUSED)
 msgstr("Transfer pliku wstrzymany")
 
@@ -77,10 +73,6 @@ msgstr("Rozmowa rozpoczęta")
 msgid(ADDFRIENDS)
 msgstr("Dodaj znajomych")
 
-//TODO: Same as in English? Localize or remove.
-//msgid(TOXID)
-//msgstr("Tox ID")
-
 msgid(MESSAGE)
 msgstr("Wiadomość")
 
@@ -100,7 +92,7 @@ msgid(USERSETTINGS)
 msgstr("Ustawienia użytkownika")
 
 msgid(NAME)
-msgstr("Nick")
+msgstr("Nazwa użytkownika")
 
 msgid(STATUSMESSAGE)
 msgstr("Status")
@@ -123,10 +115,6 @@ msgstr("Urządzenie wejściowe wideo")
 msgid(OTHERSETTINGS)
 msgstr("Inne ustawienia")
 
-//TODO: Same as in English? Localize or remove.
-//msgid(DPI)
-//msgstr("DPI")
-
 msgid(SAVELOCATION)
 msgstr("Lokalizacja dla zapisu danych")
 
@@ -135,14 +123,6 @@ msgstr("Język")
 
 msgid(NETWORK)
 msgstr("Sieć")
-
-//TODO: Same as in English? Localize or remove.
-//msgid(IPV6)
-//msgstr("IPv6:")
-
-//TODO: Same as in English? Localize or remove.
-//msgid(UDP)
-//msgstr("UDP:")
 
 //TODO: Same as in English? Localize or remove.
 //msgid(PROXY)
@@ -239,30 +219,17 @@ msgstr("Brak")
 msgid(VIDEO_IN_DESKTOP)
 msgstr("Ekran")
 
-//TODO: Localize or remove.
-//msgid(DEFAULT_FRIEND_REQUEST_MESSAGE)
-//msgstr("Please accept this friend request.")
+msgid(DEFAULT_FRIEND_REQUEST_MESSAGE)
+msgstr("Proszę, zaakceptuj to zaproszenie do znajomych.")
 
-//TODO: Localize or remove.
-//msgid(CONTACTS_FILTER_EDIT_HINT)
-//msgstr("Search friends")
+msgid(CONTACTS_FILTER_EDIT_HINT)
+msgstr("Wyszukaj w znajomych")
 
-//TODO: Localize or remove.
-//msgid(PROXY_EDIT_HINT_IP)
-//msgstr("IP")
+msgid(AUDIO_IN_DEFAULT_LOOPBACK)
+msgstr("Domyślny Loopback")
 
-//TODO: Localize or remove.
-//msgid(PROXY_EDIT_HINT_PORT)
-//msgstr("Port")
+msgid(WINDOW_TITLE_VIDEO_PREVIEW)
+msgstr("Podgląd wideo")
 
-//TODO: Localize or remove.
-//msgid(AUDIO_IN_DEFAULT_LOOPBACK)
-//msgstr("Default Loopback")
-
-//TODO: Localize or remove.
-//msgid(WINDOW_TITLE_VIDEO_PREVIEW)
-//msgstr("Video Preview")
-
-//TODO: Localize or remove.
-//msgid(AUDIONOTIFICATIONS)
-//msgstr("Enable Audible Notification (Ringtone)")
+msgid(AUDIONOTIFICATIONS)
+msgstr("Włącz powiadomienia dźwiękowe (dzwonek)")
